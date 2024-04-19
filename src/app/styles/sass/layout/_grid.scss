@@ -1,0 +1,40 @@
+.two-col-grid{
+    grid-template-areas: 
+    "SIDE MAIN MAIN"
+    "SIDE MAIN MAIN"
+    "SIDE MAIN MAIN";
+}
+
+.header-two-col-grid{
+    grid-template-areas: 
+        "HEADER HEARD HEADER"
+        "SIDE MAIN MAIN"
+        "SIDE MAIN MAIN"
+        "FOOTER FOOTER FOOTER"
+    ;
+}
+
+.header-grid{
+    grid-template-areas: 
+    "HEADER HEADER HEADER"
+    "MAIN MAIN MAIN"
+    "MAIN MAIN MAIN"
+    "FOOTER FOOTER FOOTER"
+    ;
+}
+
+.g-header{
+    grid-area: HEADER;
+}
+
+.g-side{
+    grid-area: SIDE;
+}
+
+.g-main{
+    grid-area: MAIN;
+}
+
+.g-foot{
+    grid-area: FOOTER;
+}
