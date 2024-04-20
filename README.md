@@ -1,6 +1,9 @@
 # Objective  
 - Explore the integration of animations in a Next.js application using Framer Motion. You'll create a simple application that displays three images with engaging animations to demonstrate your understanding of animation effects and their implementation in web development.
-
+  
+# Acknowledgements  
+- Credit to ChatGPT for assistance with animations and code comments.
+  
 # Instructions  
 ## Part 1: Setting Up Your Project  
 ### Create a New Next.js App:  
